@@ -13,6 +13,6 @@ try to guide you so that you gain a good insight about programming world. Enjoy!
 twitter_username: your-twitter-handle
 github_username:  bhaktitud
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
 
 theme: minima
